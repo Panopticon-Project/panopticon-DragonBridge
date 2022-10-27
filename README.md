@@ -5,3 +5,5 @@ https://www.securityweek.com/chinese-threat-actor-targets-rare-earth-mining-comp
 https://www.mandiant.com/resources/dragonbridge-targets-rare-earths-mining-companies
 
 https://www.defense.gov/News/Releases/Release/Article/3077280/reports-of-disinformation-campaign-against-rare-earth-processing-facilities/utm_source/substack/utm_medium/reports-of-disinformation-campaign-against-rare-earth-processing-facilities/
+
+https://therecord.media/report-pro-china-influence-operation-targeted-u-s-midterms/
